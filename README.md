@@ -3,7 +3,7 @@
 ### Repository
 Readme
 - The readme file contains a brief explanation of our project goals, findings, metrics used, a comparison of our final model versus our baseline, and our recommendations. 
-Project_2_Modeling_Tim_Notebook
+Tim's Notebook (Project_2_Modeling_Tim_Notebook)
 - Tim's jupyter notebook. It runs through his entire modeling process with explanations for each step.
 (Lenaya's Notebook)
 -
