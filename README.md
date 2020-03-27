@@ -26,6 +26,6 @@
 *
 
 ### Recommendations
-* Get information on the costs associated with each feature in order to better determine profitability. With square footage being the biggest factor in how much a house is sold for, this is less significant if the price of building a bigger home increases more than the sale price. This also follows for the cost of each feature of the house. For example, keeping house square footage constant, how much extra does it cost to build an extra bathroom instead of having a larger living room or kitchen?
+* Get information on the cost of building each house. By doing this we could run a similar multivariate linear regression to determine which home features contribute the most in cost. By doing this we could then compare the increase to the sale price of each house with the increase in the cost of each house associated with each feature to determine which house features were the most profitable.
 * It would also be useful to use a model were we could link latitude and longitude. While this is possible using a GAM model with tensoring, we were unable to understand how to implement the model sufficiently to be used. This relational approach could be investigated with other features as well. For example, is adding on another bathroom more or less significant when the bathroom is paired with another bedroom?
 * Obtaining more data would also be useful. Our data set stops at 2015 and it would probably be useful to have data closer to the present.
