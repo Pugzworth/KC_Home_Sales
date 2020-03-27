@@ -1,17 +1,17 @@
 # Module 2 Modeling Project
 
 ### Repository
-* Readme
+Readme
 - The readme file contains a brief explanation of our project goals, findings, metrics used, a comparison of our final model versus our baseline, and our recommendations. 
-* Project_2_Modeling_Tim_Notebook
+Project_2_Modeling_Tim_Notebook
 - Tim's jupyter notebook. It runs through his entire modeling process with explanations for each step.
-* (Lenaya's Notebook)
+(Lenaya's Notebook)
 -
-* (Jesus' Notebook)
+Jesus' Notebook
 - For the branch named (Jesus), contains the notebook regarding a Ridge regression model.
 - The base model for the notebook contains the raw dated fed to the model.
 - After normalizations where made to the data and got a better score after normalizing my data.
-* kc_house_data.csv
+kc_house_data.csv
 - The csv file containing the data that we used for the project.
 
 ### Project Goals
