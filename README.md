@@ -8,7 +8,9 @@
 * (Lenaya's Notebook)
 -
 * (Jesus' Notebook)
--
+- For the branch named (Jesus), contains the notebook regarding a Ridge regression model.
+- The base model for the notebook contains the raw dated fed to the model.
+- After normalizations where made to the data and got a better score after normalizing my data.
 * kc_house_data.csv
 - The csv file containing the data that we used for the project.
 
