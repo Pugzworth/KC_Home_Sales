@@ -1,15 +1,15 @@
 # Module 2 Modeling Project
 
 ### Repository
-Readme
+* Readme
 - The readme file contains a brief explanation of our project goals, findings, metrics used, a comparison of our final model versus our baseline, and our recommendations. 
-Project_2_Modeling_Tim_Notebook
+* Project_2_Modeling_Tim_Notebook
 - Tim's jupyter notebook. It runs through his entire modeling process with explanations for each step.
-(Lenaya's Notebook)
+* (Lenaya's Notebook)
 -
-(Jesus' Notebook)
+* (Jesus' Notebook)
 -
-kc_house_data.csv
+* kc_house_data.csv
 - The csv file containing the data that we used for the project.
 
 ### Project Goals
